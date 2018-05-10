@@ -1,0 +1,43 @@
+/* =============================================================================================================================
+  Description:
+  Custom styles for BP Verticalized Demos Landing Page
+
+  By:
+  Fernando Barroso Gallegos
+  fernando.barroso@blueprism.com
+
+================================================================================================================================
+	Content Table
+================================================================================================================================
+[1] Navbar Customization
+[2] Custom Colors
+[3] Parallax Container height
+==============================================================================================================================*/
+
+/* ==============================
+[1] Navbar Logo Fixed
+===============================*/
+
+nav .brand-logo {
+    padding: 10px !important;
+}
+
+/* ==============================
+[2] Custom Colors
+===============================*/
+
+.blueprism-darkblue {
+  background-color: #0F4B8F !important;
+}
+
+.blueprism-lightblue {
+  background-color: #2892C6 !important;
+}
+
+/* ==============================
+[2] Parallax Container Height
+===============================*/
+
+.parallax-container {
+      height: 300px;
+}
